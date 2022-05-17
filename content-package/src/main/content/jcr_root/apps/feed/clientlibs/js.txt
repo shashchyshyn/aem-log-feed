@@ -1,0 +1,6 @@
+#base=js
+0_bindings.js
+1_scroll.js
+8_message_pattern.js
+9_main.js
+2_suggest.js
